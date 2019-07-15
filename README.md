@@ -1,5 +1,5 @@
 # DVAWeData website
-https://github.gatech.edu/pages/gni7/DVAWeData/
+https://laurawang6898.github.io/flightVisualization/
 
 
 # Project description
